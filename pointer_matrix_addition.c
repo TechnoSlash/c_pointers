@@ -37,4 +37,4 @@ int main() {
   }
 
   return 0;
-}
+} // bus error during the input of second matrix
